@@ -1,0 +1,15 @@
+
+{
+  "useMapWidgetIds": [],
+  "useDataSources": [],
+  "employeeNameField": "",
+  "initialTab": "matrix",
+  "mapOffsetPixels": 300,
+  "routePaddingLeft": 300,
+  "routePaddingRight": 50,
+  "routePaddingTop": 50,
+  "routePaddingBottom": 50,
+  "exampleConfigProperty": "test"
+}
+
+
